@@ -1,0 +1,28 @@
+name: wordpress
+favicon: null
+layout_spectrum: 0.16469003376550972
+typography_spectrum: 0.5246348099317402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08247426594607532
+  lightness: 0.1461405586451292
+  saturation: 0.808313328307122
+  rhythmicContrast: 0.7583080842159688
+purpose: []
